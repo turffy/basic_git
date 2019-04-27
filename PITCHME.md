@@ -1,4 +1,4 @@
-# Basic usage of Git
+# Basic  Git
 
 ---
 
@@ -10,4 +10,4 @@
 
 ---
 
-![](img/dxc_logo.png)
+![](img/gitDownload.PNG)
