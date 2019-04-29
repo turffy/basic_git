@@ -33,4 +33,4 @@
 - git-push - Update remote refs along with associated objects
 
 ---
-@code[](src/test.sh)
+@code[bash](src/test.sh)
