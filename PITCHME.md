@@ -34,7 +34,7 @@
 
 ---
 
-<<<<<<< HEAD
+
 ![](img/git_ansi.PNG)
 
 ---
@@ -44,10 +44,4 @@
 ---
 
 ## Thank you!
-=======
-# Questions?
 
----
-
-# Thank you!
->>>>>>> 3eec3055031a0f41c69dafc2ba001718ff6f5657
