@@ -11,3 +11,8 @@
 ---
 
 ![](img/gitDownload.PNG)
+
+---
+
+![](img/gui_git.PNG)
+
