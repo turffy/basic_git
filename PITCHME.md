@@ -16,3 +16,20 @@
 
 ![](img/gui_git.PNG)
 
+---
+
+- git-init - Create an empty Git repository or reinitialize an existing one
+
+---
+
+- git-add - Add file contents to the index
+
+---
+
+- git-commit - Record changes to the repository
+
+---
+
+- git-push - Update remote refs along with associated objects
+
+- 
