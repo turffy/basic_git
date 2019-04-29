@@ -32,3 +32,14 @@
 
 - git-push - Update remote refs along with associated objects
 
+---
+
+![](img/git_ansi.PNG)
+
+---
+
+## Questions?
+
+---
+
+## Thank you!
